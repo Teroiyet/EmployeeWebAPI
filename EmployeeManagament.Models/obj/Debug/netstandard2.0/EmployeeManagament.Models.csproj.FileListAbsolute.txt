@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\EmployeeWebAPI\EmployeeManagament.Models\bin\Debug\netstandard2.0\EmployeeManagament.Models.deps.json
+C:\Users\LENOVO\source\repos\EmployeeWebAPI\EmployeeManagament.Models\bin\Debug\netstandard2.0\EmployeeManagament.Models.dll
+C:\Users\LENOVO\source\repos\EmployeeWebAPI\EmployeeManagament.Models\obj\Debug\netstandard2.0\EmployeeManagament.Models.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\EmployeeWebAPI\EmployeeManagament.Models\obj\Debug\netstandard2.0\EmployeeManagament.Models.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeWebAPI\EmployeeManagament.Models\obj\Debug\netstandard2.0\EmployeeManagament.Models.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EmployeeWebAPI\EmployeeManagament.Models\bin\Debug\netstandard2.0\EmployeeManagament.Models.pdb
+C:\Users\LENOVO\source\repos\EmployeeWebAPI\EmployeeManagament.Models\obj\Debug\netstandard2.0\EmployeeManagament.Models.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeWebAPI\EmployeeManagament.Models\obj\Debug\netstandard2.0\EmployeeManagament.Models.dll
+C:\Users\LENOVO\source\repos\EmployeeWebAPI\EmployeeManagament.Models\obj\Debug\netstandard2.0\EmployeeManagament.Models.pdb
